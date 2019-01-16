@@ -1,0 +1,1 @@
+/home/alaa/ros2_ws/src/ros2/demos/lifecycle/launch/lifecycle_demo.launch.py

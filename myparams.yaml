@@ -1,0 +1,13 @@
+ lc_talker:
+   ros__parameters:
+      gain: 1000
+      TimeSample : 1
+
+
+ #<node_namespace_string>:  # optional
+ # <node1_name>:
+  #  ros__parameters:
+    #  <field_name>: <field_value>
+      #<parameter_namespace_string>:   # optional
+      #  <field1_name>: <field1_value>
+      #  <field2_name>: <field2_value>

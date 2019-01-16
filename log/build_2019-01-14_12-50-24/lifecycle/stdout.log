@@ -1,0 +1,27 @@
+[35m[1mScanning dependencies of target lifecycle_talker[0m
+[ 33%] Built target lifecycle_listener
+[ 66%] Built target lifecycle_service_client
+[ 83%] [32mBuilding CXX object CMakeFiles/lifecycle_talker.dir/src/lifecycle_talker.cpp.o[0m
+[100%] [32m[1mLinking CXX executable lifecycle_talker[0m
+[100%] Built target lifecycle_talker
+[ 33%] Built target lifecycle_talker
+[ 66%] Built target lifecycle_listener
+[100%] Built target lifecycle_service_client
+[36mInstall the project...[0m
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/alaa/ros2_ws/src/ros2/demos/lifecycle/install/lifecycle/lib/lifecycle/lifecycle_talker
+-- Symlinking: /home/alaa/ros2_ws/src/ros2/demos/lifecycle/install/lifecycle/lib/lifecycle/lifecycle_listener
+-- Symlinking: /home/alaa/ros2_ws/src/ros2/demos/lifecycle/install/lifecycle/lib/lifecycle/lifecycle_service_client
+-- Symlinking: /home/alaa/ros2_ws/src/ros2/demos/lifecycle/install/lifecycle/share/lifecycle//launch/lifecycle_demo.launch.py
+-- Symlinking: /home/alaa/ros2_ws/src/ros2/demos/lifecycle/install/lifecycle/share/ament_index/resource_index/package_run_dependencies/lifecycle
+-- Symlinking: /home/alaa/ros2_ws/src/ros2/demos/lifecycle/install/lifecycle/share/ament_index/resource_index/parent_prefix_path/lifecycle
+-- Symlinking: /home/alaa/ros2_ws/src/ros2/demos/lifecycle/install/lifecycle/share/lifecycle/environment/ament_prefix_path.sh
+-- Symlinking: /home/alaa/ros2_ws/src/ros2/demos/lifecycle/install/lifecycle/share/lifecycle/environment/path.sh
+-- Symlinking: /home/alaa/ros2_ws/src/ros2/demos/lifecycle/install/lifecycle/share/lifecycle/local_setup.bash
+-- Symlinking: /home/alaa/ros2_ws/src/ros2/demos/lifecycle/install/lifecycle/share/lifecycle/local_setup.sh
+-- Symlinking: /home/alaa/ros2_ws/src/ros2/demos/lifecycle/install/lifecycle/share/lifecycle/local_setup.zsh
+-- Symlinking: /home/alaa/ros2_ws/src/ros2/demos/lifecycle/install/lifecycle/share/ament_index/resource_index/packages/lifecycle
+-- Symlinking: /home/alaa/ros2_ws/src/ros2/demos/lifecycle/install/lifecycle/share/lifecycle/cmake/lifecycleConfig.cmake
+-- Symlinking: /home/alaa/ros2_ws/src/ros2/demos/lifecycle/install/lifecycle/share/lifecycle/cmake/lifecycleConfig-version.cmake
+-- Symlinking: /home/alaa/ros2_ws/src/ros2/demos/lifecycle/install/lifecycle/share/lifecycle/package.xml
